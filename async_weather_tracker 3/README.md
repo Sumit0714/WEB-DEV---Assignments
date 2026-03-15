@@ -108,6 +108,6 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=m
 
 ## 👨‍💻 Author
 
-**Vishal Kumar Jha**\
-GitHub: https://github.com/vishalkumarjha192
+**Sumit**\
+GitHub: https://github.com/Sumit0714
 
